@@ -1,0 +1,14 @@
+
+    id name age 
+    101 John 20
+    102 Jane 21
+    103 Jim 22
+    
+    id name age 
+    101 John 2
+    102 Jane 21
+    103 Jim 22
+    
+Python powers major aspects of Abridgeï¿½s ML lifecycle, including data annotation, research and experimentation, and ML model deployment to production.
+
+Python powers major aspects of Abridge’s ML lifecycle, including data annotation, research and experimentation, and ML model deployment to production.
